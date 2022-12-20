@@ -1,4 +1,4 @@
-# my_cards
+# My Cards (Credit Card Management App)
 
 A new Flutter project.
 
