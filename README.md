@@ -1,16 +1,8 @@
-# my_cards
+# My Cards (Credit Card Management App)
 
-A new Flutter project.
+Clone of HDFC My Cards Website.
+Developed using Flutter.
 
-## Getting Started
+Originally, the HDFC Card management app is a Progressive Web App. I created mobile application similar to it using Flutter, basically a clone of My Cards Web App.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/54136401/208697982-e7fbec27-8fd6-4264-95b2-133721aae762.png)
